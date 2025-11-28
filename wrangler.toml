@@ -1,4 +1,4 @@
 name = "hello-python"
 main = "worker.py"
 compatibility_flags = ["python_workers"]
-compatibility_date = "2024-10-01"
+compatibility_date = "2025-11-02"
